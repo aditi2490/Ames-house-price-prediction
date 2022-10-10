@@ -16,3 +16,4 @@ The entire project is split into three Jupyter notebooks:
 
 # Summary of Findings & Recommendations
 
+![This is an image](https://github.com/aditi2490/Ames-house-price-prediction/blob/main/corr.png)
